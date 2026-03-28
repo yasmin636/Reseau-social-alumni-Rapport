@@ -33,8 +33,8 @@ Encadré par : Dr. Moubarak Barre Hassan
 ##  Technologies utilisées
 - HTML  
 - CSS  
-- JavaScript  
-- PHP  
+- python
+- php  
 - SQLite  
 
 ---
@@ -61,7 +61,7 @@ Encadré par : Dr. Moubarak Barre Hassan
 /frontend → interface utilisateur  
 /backend → logique serveur  
 /database → scripts SQL  
-/assets → images, CSS, JS  
+/assets → images, CSS, python  
 
 ---
 ## ⚙️ Installation
